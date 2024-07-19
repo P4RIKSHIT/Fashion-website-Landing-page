@@ -205,10 +205,10 @@ body {
         border-radius: 3px;
     }
     #left-center h1{
-        font-size: 15vw;
+        font-size: 12vw;
         text-transform: uppercase;
         font-weight: 500;
-        line-height: 16vw;
+        line-height: 12vw;
         
     } 
     #left-center h1:nth-child(2n){
